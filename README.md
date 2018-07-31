@@ -13,6 +13,7 @@ For Apple, you can use https://linkmaker.itunes.apple.com to get the link.
 
 ### Useful references
 https://developer.lyft.com/v1/docs/deeplinking
+
 https://docs.expo.io/versions/latest/workflow/linking#handling-links-into-your-app
 
 
