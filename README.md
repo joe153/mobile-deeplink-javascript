@@ -1,7 +1,7 @@
 # mobile-deeplink-javascript
 Directs the user to the mobile app if already installed
 
-![Alt text](flow.png?raw=true "Flow")
+![Alt text](diagram.png?raw=true "Flow")
 
 ## Setting up the index.html file
 
